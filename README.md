@@ -1,2 +1,2 @@
 # card-sort
-testing javascript
+testing widget for a values card sort activity linking to TargetConnect
